@@ -1,5 +1,5 @@
 # Primal-Blog
-This Is a Blog Web And Developed By React Js And I Have Used GQL
+This Is a Blog Web And Developed By React Js And I Have Used GQL( GraphQL )
 
 primalblog.netlify.app # Web Address
 
