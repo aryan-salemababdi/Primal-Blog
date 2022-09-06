@@ -16,7 +16,7 @@ const Authors = () => {
     return (
         <Grid
         container
-        sx={{ boxShadow: "rgba(0,0,0,0.1) 0px 4px 12px", borderRadius: 4 }}
+        sx={{ boxShadow: "rgba(0,0,0,0.1) 0px 4px 12px", borderRadius: 4,position:"sticky",top:80 }}
         padding={1}
       >
         {authors.map((author, index) => (
